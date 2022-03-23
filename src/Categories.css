@@ -1,0 +1,29 @@
+.cat{
+    background: black;
+    color: #fff;
+    display: flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: center;
+    width: 100%;
+    min-height: 100vh;
+    cursor: pointer;
+}
+.pcat{
+    
+    width: 100px;
+    text-align: center;
+    height: 170px;
+}
+.catimg{
+    width: 180px;
+    margin: 5px;
+    transition: all 0.2s ease-in;
+}
+.catimg:hover{
+    transform: scale(1.1);
+}
+.hcat{
+    text-align: center;
+}

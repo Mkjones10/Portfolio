@@ -1,0 +1,18 @@
+.footer{
+    display:flex ;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+    background-color: rgb(0, 0, 0);
+    color: #fff;
+    height: 20vh;
+    border-top: 1px solid #ccc;
+    border-bottom: 1px solid #ccc;
+
+}
+.p{
+   font-size: 18px; 
+}
+.sp{
+    color:rgb(207, 98, 221) ;
+}
